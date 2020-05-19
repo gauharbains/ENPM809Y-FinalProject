@@ -3,7 +3,6 @@ Objective of this project is to  navigate a robot through a maze to reach the ce
 This robot navigation system was tested using [Micromouse Simulator](https://github.com/mackorone/mms). 
 Depth-first Search algorithm is being applied to implement the path planning algorithm.
 
-![Maze](/maze.png)
 
 
 ## Authors: 
