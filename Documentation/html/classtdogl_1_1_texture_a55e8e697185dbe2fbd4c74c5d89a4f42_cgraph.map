@@ -1,0 +1,6 @@
+<map id="tdogl::Texture::Texture" name="tdogl::Texture::Texture">
+<area shape="rect" id="node2" href="$classtdogl_1_1_bitmap.html#ac0b2dc11a31e8240ea380c4ccc85b91d" title="tdogl::Bitmap::format" alt="" coords="221,5,365,32"/>
+<area shape="rect" id="node3" href="$classtdogl_1_1_bitmap.html#ace2717714f71584ce6fda1246d6cd5de" title="tdogl::Bitmap::width" alt="" coords="223,56,362,83"/>
+<area shape="rect" id="node4" href="$classtdogl_1_1_bitmap.html#a06ea024b809b04ac2235c374be0c5188" title="tdogl::Bitmap::height" alt="" coords="221,107,364,133"/>
+<area shape="rect" id="node5" href="$classtdogl_1_1_bitmap.html#a68a42e718c5673770371339d49fc04d2" title="tdogl::Bitmap::pixelBuffer" alt="" coords="208,157,377,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sim::Cartesian" name="sim::Cartesian">
+<area shape="rect" id="node2" href="$classsim_1_1_coordinate.html" title="sim::Coordinate" alt="" coords="5,185,120,212"/>
+<area shape="rect" id="node3" href="$classsim_1_1_meters.html" title="sim::Meters" alt="" coords="17,81,108,108"/>
+<area shape="rect" id="node4" href="$classsim_1_1_distance.html" title="sim::Distance" alt="" coords="11,5,114,32"/>
+</map>

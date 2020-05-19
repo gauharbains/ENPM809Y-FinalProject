@@ -1,0 +1,5 @@
+<map id="sim::AngularVelocity" name="sim::AngularVelocity">
+<area shape="rect" id="node2" href="$classsim_1_1_degrees_per_second.html" title="sim::DegreesPerSecond" alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$classsim_1_1_radians_per_second.html" title="sim::RadiansPerSecond" alt="" coords="194,80,357,107"/>
+<area shape="rect" id="node4" href="$classsim_1_1_revolutions_per_minute.html" title="sim::RevolutionsPerMinute" alt="" coords="381,80,559,107"/>
+</map>

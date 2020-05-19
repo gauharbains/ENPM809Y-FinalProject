@@ -1,0 +1,6 @@
+<map id="sth_font" name="sth_font">
+<area shape="rect" id="node2" href="$structstbtt__fontinfo.html" title="stbtt_fontinfo" alt="" coords="5,184,104,211"/>
+<area shape="rect" id="node3" href="$structsth__glyph.html" title="sth_glyph" alt="" coords="129,184,207,211"/>
+<area shape="rect" id="node4" href="$structsth__texture.html" title="sth_texture" alt="" coords="125,95,211,121"/>
+<area shape="rect" id="node5" href="$structsth__row.html" title="sth_row" alt="" coords="134,5,202,32"/>
+</map>

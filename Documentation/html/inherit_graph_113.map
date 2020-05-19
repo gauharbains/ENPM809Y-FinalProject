@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsim_1_1_angular_velocity.html" title="sim::AngularVelocity" alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$classsim_1_1_degrees_per_second.html" title="sim::DegreesPerSecond" alt="" coords="203,5,367,32"/>
+<area shape="rect" id="node3" href="$classsim_1_1_radians_per_second.html" title="sim::RadiansPerSecond" alt="" coords="204,56,367,83"/>
+<area shape="rect" id="node4" href="$classsim_1_1_revolutions_per_minute.html" title="sim::RevolutionsPerMinute" alt="" coords="196,107,375,133"/>
+</map>

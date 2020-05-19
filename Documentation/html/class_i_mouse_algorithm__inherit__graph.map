@@ -1,0 +1,15 @@
+<map id="IMouseAlgorithm" name="IMouseAlgorithm">
+<area shape="rect" id="node2" href="$classcontinuous_1_1_continuous.html" title="continuous::Continuous" alt="" coords="192,5,351,32"/>
+<area shape="rect" id="node3" href="$classdiagonal_test_1_1_diagonal_test.html" title="diagonalTest::DiagonalTest" alt="" coords="181,56,362,83"/>
+<area shape="rect" id="node4" href="$classdo_nothing_1_1_do_nothing.html" title="doNothing::DoNothing" alt="" coords="196,107,347,133"/>
+<area shape="rect" id="node5" href="$classflood_fill_1_1_flood_fill.html" title="floodFill::FloodFill" alt="" coords="209,157,333,184"/>
+<area shape="rect" id="node6" href="$classfont_test_1_1_font_test.html" title="fontTest::FontTest" alt="" coords="206,208,337,235"/>
+<area shape="rect" id="node7" href="$classforward_1_1_forward.html" title="forward::Forward" alt="" coords="211,259,331,285"/>
+<area shape="rect" id="node8" href="$classleft_wall_follow_1_1_left_wall_follow.html" title="leftWallFollow::LeftWall\lFollow" alt="" coords="191,310,351,351"/>
+<area shape="rect" id="node9" href="$classmack_algo_1_1_mack_algo.html" title="mackAlgo::MackAlgo" alt="" coords="198,376,345,403"/>
+<area shape="rect" id="node10" href="$classmack_algo_two_1_1_mack_algo_two.html" title="mackAlgoTwo::MackAlgoTwo" alt="" coords="173,427,369,453"/>
+<area shape="rect" id="node11" href="$classmanual_1_1_manual.html" title="manual::Manual" alt="" coords="214,477,329,504"/>
+<area shape="rect" id="node12" href="$classrandomized_wall_follow_1_1_randomized_wall_follow.html" title="randomizedWallFollow\l::RandomizedWallFollow" alt="" coords="188,529,355,570"/>
+<area shape="rect" id="node13" href="$classright_wall_follow_1_1_right_wall_follow.html" title="rightWallFollow::RightWall\lFollow" alt="" coords="183,594,359,635"/>
+<area shape="rect" id="node14" href="$classtest_1_1_test.html" title="test::Test" alt="" coords="232,660,311,687"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsim_1_1_duration.html" title="sim::Duration" alt="" coords="5,56,105,83"/>
+<area shape="rect" id="node2" href="$classsim_1_1_microseconds.html" title="sim::Microseconds" alt="" coords="153,5,285,32"/>
+<area shape="rect" id="node3" href="$classsim_1_1_milliseconds.html" title="sim::Milliseconds" alt="" coords="158,56,281,83"/>
+<area shape="rect" id="node4" href="$classsim_1_1_seconds.html" title="sim::Seconds" alt="" coords="168,107,271,133"/>
+</map>

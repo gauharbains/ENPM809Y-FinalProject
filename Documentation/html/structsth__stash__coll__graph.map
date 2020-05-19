@@ -1,0 +1,7 @@
+<map id="sth_stash" name="sth_stash">
+<area shape="rect" id="node2" href="$structsth__texture.html" title="sth_texture" alt="" coords="169,95,255,121"/>
+<area shape="rect" id="node6" href="$structsth__glyph.html" title="sth_glyph" alt="" coords="129,184,207,211"/>
+<area shape="rect" id="node3" href="$structsth__row.html" title="sth_row" alt="" coords="178,5,246,32"/>
+<area shape="rect" id="node4" href="$structsth__font.html" title="sth_font" alt="" coords="85,288,155,315"/>
+<area shape="rect" id="node5" href="$structstbtt__fontinfo.html" title="stbtt_fontinfo" alt="" coords="5,184,104,211"/>
+</map>
